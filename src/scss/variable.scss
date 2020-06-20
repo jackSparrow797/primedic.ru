@@ -5,10 +5,19 @@ $pink: #e83e8c !default;
 $red: #dc3545 !default;
 $orange: #fd7e14 !default;
 $yellow: #ffc107 !default;
-$green: #60B238;
+$green: #008787;
 $teal: #20c997 !default;
 $cyan: #17a2b8 !default;
 $white: #fff !default;
+
+// buttons
+$btn-border-radius: 50px;
+$btn-font-family: "Rubik", sans-serif;
+$btn-font-size: 12px;
+$btn-line-height: 2.2;
+$btn-padding-x: 20px;
+$link-color: #132A5E;
+// buttons
 
 $gray: #F2F2F2;
 
@@ -70,7 +79,7 @@ $f100px: #{100/$fbase}rem;
 $f250px: #{250/$fbase}rem;
 
 
-$content-xl: 1306px;
+$content-xl: 1300px;
 $content-lg: 1100px;
 $content-md: 920px;
 $content-sm: 540px;

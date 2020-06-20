@@ -1,4 +1,4 @@
-# design-template - шаблон для дизайна 
+# Primedic
 
 Настроено с помошью webpack. 
 
